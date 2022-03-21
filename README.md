@@ -1,7 +1,7 @@
 # Lab3Web
 
 
-## Membuat List
+### Membuat List
 
 ![1.png](Gambar/1.png)
 * Tag `<Header>` pada html digunakan untuk menentukan header atau kepala 
@@ -16,7 +16,7 @@ atau kotak.
 
 ![1_1.png](Gambar/1_1.png)
 
-## Description List
+### Description List
 ![2.png](Gambar/2.png)
 * tag `<dl>` menunjukan sebuah Description List atau daftar penjelasan.
 * tag `<dt>` menunjukkan sebuah Definition Term yang digunakan untuk merepresentasikan sebuah istilah pada daftar definisi
@@ -28,7 +28,7 @@ element `<dt>` dan `<dd>`, keduanya ditulis dalam `<dl>` element yang menunjukka
 
 ![2_2.png](Gambar/2_2.png)
 
-
+### Membuat Tabel
 ![3.png](Gambar/3.png)
 * Tag `<table>` untuk membungkus tabelnya
 * Border adalah salah satu property css, border memiliki fungsi untuk memberi batas/garis(seperti) pada suatu bidang/box/tag html.
