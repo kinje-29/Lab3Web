@@ -13,6 +13,7 @@ menjadi beberapa bagian berdasarkan tema atau pokok pikiran masing-masing.
 * tag `<ol>` (Ordered List) digunakan untuk membuat daftar dimana tiap bagiannya memiliki nomor secara terurut.
 * tag `<ul>` (Unordered List) berfungsi untuk menampilkan daftar list dalam bentuk bulat
 atau kotak.
+
 ![1_1.png](Gambar/1_1.png)
 
 ## Description List
@@ -24,6 +25,7 @@ atau kotak.
 `<dd>` tag merupakan element yang memberikan penjelasan sebuah istilah/term 
 (Yang ditulis didalam element `<dt>` (definition term)). 
 element `<dt>` dan `<dd>`, keduanya ditulis dalam `<dl>` element yang menunjukkan sebuah definition list.
+
 ![2_2.png](Gambar/2_2.png)
 
 
@@ -38,11 +40,13 @@ Di dalam element `<thead>` tersebut, harus ditulis element `<tr>` yang menunjukk
 * Tag `<tr>` (tabel row) untuk membuat baris
 * Tag `<th>` (table head) untuk membuat judul pada header
 * Tag `<td>` (table data) untuk membuat sel
+
 ![3_3.png](Gambar/3_3.png)
 
 ### Atribut rowspan
 ![4.png](Gambar/4.png)
 * Atribut rowspan digunakan untuk menggabungkan baris pada tabel.
+
 ![4_4.png](Gambar/4_4.png)
 
 ### Membuat Form
@@ -56,6 +60,7 @@ Elemen Form dapat terdiri dari check box, radio button, menu, text box, text are
 * Membuat radio button isi dalam `<input type="radio">`, kegunaan radio button adalah agar pengguna untuk memilih salah satu dari radio button itu contoh 
 "Jenis Kelami Laki-Laki Perempuan" maka pengguna akan memilih salah satu dari pilihan itu.
 * Type `submit` digunakan untuk memproses data yang di input.
+
 ![5_5.png](Gambar/5_5.png)
 
 
