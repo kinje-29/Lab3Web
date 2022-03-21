@@ -2,6 +2,10 @@
 
 
 ## Membuat List
+
+        * Tag Header pada html digunakan untuk menentukan header atau kepala 
+        dokumen dari website atau situs html. Tag tersebut berisi informasi 
+        yang berkaitan dengan judul dan heading konten terkait
 ![1.png](Gambar/1.png)
 ![1_1.png](Gambar/1_1.png)
 
