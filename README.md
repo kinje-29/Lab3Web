@@ -66,3 +66,12 @@ Elemen Form dapat terdiri dari check box, radio button, menu, text box, text are
 
 ![6.png](Gambar/6.png)
 ![6_6.png](Gambar/6_6.png)
+
+
+## Membuat Select Box dengan tampilan drop down
+![7.png](Gambar/7.png)
+   * `<select></select>` adalah tag pembuka dan tag penutup dari input select.
+   * `name="Provinsi"` adalah nama daari inputan yang akan dikirim ketika dorm di proses.
+   * `<option value="JawaBarat">Jawa Barat</option>` adalah pilihan yang akan ditampilkan untuk bagian `value` adalah nilai dikirim, dan karakter diantara `<option></option>` itu adalah yang ditampilkan di pilihan.
+
+![7_7.png](Gambar/7_7.png)
